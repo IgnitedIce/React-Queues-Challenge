@@ -2,6 +2,8 @@
 
 This fun challenge was taken from [This YouTube tutorial](https://www.youtube.com/watch?v=B9fmr1TpKHE) and solved alone.
 
+A compiled version is available [here](https://ignitedice.github.io).
+
 ## Challenge Description
 
 The goal is to have 5 queues of customers, where every customer has some items.
