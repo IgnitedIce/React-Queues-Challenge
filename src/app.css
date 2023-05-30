@@ -1,0 +1,12 @@
+.c-box {
+	width: 100px;
+	height: 100px;
+	user-select: none;
+}
+
+html,
+body,
+#root,
+.full-height {
+	height: -webkit-fill-available;
+}
