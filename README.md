@@ -10,7 +10,7 @@ The goal is to have 5 queues of customers, where every customer has some items.
 
 Every 100 milliseconds a product is being scanned and removed from the first person on every queue.
 
-When all of their products were scanned, he's removed from the queue and the second person now becomes the first.
+When all of their products were scanned, they're removed from the queue and the second person now becomes the first.
 
 This process repeats for every queue until its empty.
 
